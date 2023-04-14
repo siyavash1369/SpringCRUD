@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: tbl-user
+    username: syavash
+    password: 1369*01
